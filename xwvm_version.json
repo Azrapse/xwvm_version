@@ -1,5 +1,6 @@
 {
 	"version_number":"20250713",
 	"version_name":"XWVM Alpha 20250713",
-	"download_url":"https://www.moddb.com/mods/xwvm/news/xwvm-alpha-20250713-download-links"
+	"download_url":"https://www.moddb.com/mods/xwvm/news/xwvm-alpha-20250713-download-links",
+	"motd":"<color=yellow><smallcaps>Known Issue:</smallcaps></color>\nDo not assign AI pilots at the hangar. A bug will prevent you from finishing the mission if you do.\nWe will release a hotfix in the next few days.\n<color=#AAF><align=center>The XWVM Team</align>"
 }
